@@ -1,3 +1,5 @@
 .idea
 .gradle
 build
+src/main/java/kit/code/config/ItSupportConfig.java
+src/main/java/kit/code/config/BotConfig.java

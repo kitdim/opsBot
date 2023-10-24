@@ -1,11 +1,8 @@
 package kit.prog;
 
-import kit.prog.setting.BotConfig;
-import kit.prog.setting.ItSupportConfig;
+import kit.prog.config.BotConfig;
+import kit.prog.config.ItSupportConfig;
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class BotTest {
     public static String botName;

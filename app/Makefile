@@ -10,7 +10,7 @@ install:
 	./gradlew clean install
 
 run:
-	./gradlew run
+	gradle run
 
 test:
 	./gradlew test

@@ -34,6 +34,6 @@ public static final String ID_GROUP = "id";
 
 ### Example
 1. The user sends an appeal.
-   ![1](image/1.jpg)
+   ![1](image/2.jpg)
 2. The appeal was received in the pre-created chat room.
-   ![2](image/2.jpg)
+   ![2](image/1.jpg)
